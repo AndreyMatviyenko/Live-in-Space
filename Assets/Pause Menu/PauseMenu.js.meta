@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 568118e133af6eb4aba2005bf564afd1
+labels:
+- pause
+- menu
+- script
+- change
+- graphics
+- quality
+- stop
+- game
+- quit
+- resume
+- help
+- code
+- java
+- font
+- main
+- drop
+- down
+- Font
+timeCreated: 1437298026
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pauseMenuFont: {fileID: 12800000, guid: 20a1bce439bd8544f8978f81ba2303c4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
